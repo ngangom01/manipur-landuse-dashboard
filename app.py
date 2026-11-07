@@ -96,7 +96,7 @@ def district_bounds(geo, name):
         return None
     lons = [p[0] for p in pts]
     lats = [p[1] for p in pts]
-    return [[min(lats), min(lons)], [max(lats), max(lons)]]
+    return [[min(lats), min(lons)], [max(lats), max(lats)]]
 
 
 def district_slice(df, district):
@@ -117,11 +117,8 @@ classes_present = [c for c in CLASS_LABELS
                    if c != "ag_total" and c in set(area["class_name"])]
 
 with st.sidebar:
-    st.header("🎨 Theme")
-    theme = st.radio("Choose Theme", ["Dark", "Light"], index=0, horizontal=True)
-
     st.header("🔍 Filters")
-    district = st.selectbox("📍 District", districts)
+    district = st.selectbox("District", districts)
     year = st.select_slider("📅 Year", options=years, value=years[-1])
     sensor = sensor_by_year[year]
     st.caption(f"📡 {year}: {sensor} satellite data, {RESOLUTION.get(sensor, '')} pixels")
@@ -143,11 +140,9 @@ with st.sidebar:
                                    format_func=lambda c: CLASS_LABELS[c])
 
 # ------------------------------------------------ styling & theme ----
-is_dark = theme == "Dark"
-bg_color = "#0e1117" if is_dark else "#ffffff"
-text_color = "#fafafa" if is_dark else "#1a1a1a"
-card_bg = "#161b22" if is_dark else "#f4f6f8"
-border_color = "#30363d" if is_dark else "#e0e0e0"
+bg_color = "#0e1117"
+text_color = "#fafafa"
+border_color = "#30363d"
 
 st.markdown(f"""
 <style>
@@ -171,16 +166,16 @@ st.markdown(f"""
         margin-bottom: 20px;
     }}
     .sticky-header-title {{
-        font-size: 2.3rem;
+        font-size: 2.8rem;
         font-weight: 700;
         margin: 0;
         color: {text_color};
         display: flex;
         align-items: center;
-        gap: 12px;
+        gap: 14px;
     }}
     .sticky-header-subtitle {{
-        font-size: 1.05rem;
+        font-size: 1.15rem;
         margin: 6px 0 0 0;
         opacity: 0.85;
         color: {text_color};
@@ -188,10 +183,10 @@ st.markdown(f"""
 </style>
 """, unsafe_allow_html=True)
 
-# Static/Sticky Title Header Container
+# Static/Sticky Title Header Container with larger icon
 st.markdown(f"""
 <div class="sticky-header-container">
-    <div class="sticky-header-title">🛰️ Manipur Land-use and Forest Dashboard</div>
+    <div class="sticky-header-title"><span style="font-size: 1.1em;">🛰️</span> Manipur Land-use and Forest Dashboard</div>
     <div class="sticky-header-subtitle">See how Manipur's farmland and forests are changing, district by district.</div>
 </div>
 """, unsafe_allow_html=True)
@@ -281,8 +276,7 @@ with tab_land:
     m = folium.Map(location=[24.8, 93.9], zoom_start=8, tiles=None,
                    control_scale=True)
     
-    tile_theme = "cartodbdarkmatter" if is_dark else "cartodbpositron"
-    folium.TileLayer(tile_theme, name="Base map").add_to(m)
+    folium.TileLayer("cartodbdarkmatter", name="Base map").add_to(m)
     folium.TileLayer(
         tiles=("https://server.arcgisonline.com/ArcGIS/rest/services/"
                "World_Imagery/MapServer/tile/{z}/{y}/{x}"),
@@ -321,7 +315,7 @@ with tab_land:
 
     # ----------------------------------------------------------- charts ---
     color_map = {CLASS_LABELS[c]: CLASS_COLORS[c] for c in CLASS_LABELS}
-    plotly_template = "plotly_dark" if is_dark else "plotly_white"
+    plotly_template = "plotly_dark"
     left, right = st.columns(2)
 
     with left:
@@ -389,7 +383,7 @@ with tab_forest:
         f["loss_sq_km"] = f["loss_ha"] * 0.01
         f["cumulative_sq_km"] = f["cumulative_ha"] * 0.01
 
-        plotly_template = "plotly_dark" if is_dark else "plotly_white"
+        plotly_template = "plotly_dark"
         a, b = st.columns(2)
         with a:
             st.plotly_chart(px.bar(
