@@ -129,7 +129,7 @@ with st.sidebar:
                                    format_func=lambda c: CLASS_LABELS[c])
 
 # ---------------------------------------------------------------- title ---
-st.title("Manipur land-use and forest dashboard")
+st.title("Manipur Land-use and Forest Dashboard")
 st.caption("See how Manipur's farmland and forests are changing, district by district.")
 with st.expander("New here? How to use this dashboard"):
     st.markdown("""
