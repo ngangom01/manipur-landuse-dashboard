@@ -133,7 +133,16 @@ st.title("Manipur Land-use and Forest Dashboard")
 st.caption("See how Manipur's farmland and forests are changing, district by district.")
 with st.expander("New here? How to use this dashboard"):
     st.markdown("""
-Paste the "New here?" text from above here.
+What is this? A free, open dashboard that uses satellite images (Landsat and Sentinel) to estimate how land is used in Manipur: rice paddy, other cropland and jhum, forest, built-up areas, water and phumdi.
+
+How to use it
+
+Pick a district in the left sidebar, or leave it on “All Manipur”.
+Move the year slider to see the map and charts change.
+Choose a land type to color the districts by, and switch the map layer on or off.
+Open the “Forest loss” tab for yearly tree-cover loss.
+
+Please note: these are computer estimates from satellite images, not official statistics. Accuracy is lower for jhum versus forest and for phumdi versus water, and older years are less certain than recent ones..
 """)
 if demo:
     st.warning("DEMO DATA: the numbers and district shapes below are made up "
