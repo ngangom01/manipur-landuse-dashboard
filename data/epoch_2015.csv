@@ -1,0 +1,97 @@
+year,sensor,district,class_id,class_name,hectares
+2015,Landsat,Churachandpur,0,forest,188543.5
+2015,Landsat,Churachandpur,1,rice_paddy,8675.2
+2015,Landsat,Churachandpur,2,other_cropland_or_jhum,44209.0
+2015,Landsat,Churachandpur,3,built_up,2029.0
+2015,Landsat,Churachandpur,4,water,977.1
+2015,Landsat,Churachandpur,6,phumdi_wetland,264.6
+2015,Landsat,Imphal East,0,forest,7094.9
+2015,Landsat,Imphal East,1,rice_paddy,24251.9
+2015,Landsat,Imphal East,2,other_cropland_or_jhum,4185.3
+2015,Landsat,Imphal East,3,built_up,6189.9
+2015,Landsat,Imphal East,4,water,997.2
+2015,Landsat,Imphal East,6,phumdi_wetland,450.2
+2015,Landsat,Imphal West,0,forest,3061.0
+2015,Landsat,Imphal West,1,rice_paddy,24529.1
+2015,Landsat,Imphal West,2,other_cropland_or_jhum,2962.2
+2015,Landsat,Imphal West,3,built_up,8106.6
+2015,Landsat,Imphal West,4,water,6093.6
+2015,Landsat,Imphal West,6,phumdi_wetland,4049.4
+2015,Landsat,Jiribam,0,forest,24503.4
+2015,Landsat,Jiribam,1,rice_paddy,1116.6
+2015,Landsat,Jiribam,2,other_cropland_or_jhum,723.8
+2015,Landsat,Jiribam,3,built_up,712.2
+2015,Landsat,Jiribam,4,water,634.4
+2015,Landsat,Jiribam,6,phumdi_wetland,1679.0
+2015,Landsat,Kakching,0,forest,4015.0
+2015,Landsat,Kakching,1,rice_paddy,13841.2
+2015,Landsat,Kakching,2,other_cropland_or_jhum,2892.3
+2015,Landsat,Kakching,3,built_up,3324.4
+2015,Landsat,Kakching,4,water,5257.3
+2015,Landsat,Kakching,6,phumdi_wetland,2627.9
+2015,Landsat,Kamjong,0,forest,220177.0
+2015,Landsat,Kamjong,1,rice_paddy,558.2
+2015,Landsat,Kamjong,2,other_cropland_or_jhum,16190.4
+2015,Landsat,Kamjong,3,built_up,664.5
+2015,Landsat,Kamjong,4,water,256.2
+2015,Landsat,Kamjong,6,phumdi_wetland,101.1
+2015,Landsat,Kangpokpi,0,forest,91055.5
+2015,Landsat,Kangpokpi,1,rice_paddy,11826.2
+2015,Landsat,Kangpokpi,2,other_cropland_or_jhum,67884.3
+2015,Landsat,Kangpokpi,3,built_up,2045.0
+2015,Landsat,Kangpokpi,4,water,435.8
+2015,Landsat,Kangpokpi,6,phumdi_wetland,107.1
+2015,Landsat,Nonei,0,forest,109863.0
+2015,Landsat,Nonei,1,rice_paddy,1281.0
+2015,Landsat,Nonei,2,other_cropland_or_jhum,5001.2
+2015,Landsat,Nonei,3,built_up,411.9
+2015,Landsat,Nonei,4,water,893.1
+2015,Landsat,Nonei,6,phumdi_wetland,432.1
+2015,Landsat,Senapati,0,forest,83887.6
+2015,Landsat,Senapati,1,rice_paddy,2061.2
+2015,Landsat,Senapati,2,other_cropland_or_jhum,87428.5
+2015,Landsat,Senapati,3,built_up,1332.8
+2015,Landsat,Senapati,4,water,150.2
+2015,Landsat,Senapati,6,phumdi_wetland,41.6
+2015,Landsat,Pherzawl,0,forest,208303.8
+2015,Landsat,Pherzawl,1,rice_paddy,97.5
+2015,Landsat,Pherzawl,2,other_cropland_or_jhum,4132.8
+2015,Landsat,Pherzawl,3,built_up,209.4
+2015,Landsat,Pherzawl,4,water,1426.6
+2015,Landsat,Pherzawl,6,phumdi_wetland,363.2
+2015,Landsat,Tamenglong,0,forest,283112.1
+2015,Landsat,Tamenglong,1,rice_paddy,1484.5
+2015,Landsat,Tamenglong,2,other_cropland_or_jhum,13607.2
+2015,Landsat,Tamenglong,3,built_up,1531.7
+2015,Landsat,Tamenglong,4,water,1050.2
+2015,Landsat,Tamenglong,6,phumdi_wetland,1018.4
+2015,Landsat,Tengnoupal,0,forest,103445.9
+2015,Landsat,Tengnoupal,1,rice_paddy,2604.7
+2015,Landsat,Tengnoupal,2,other_cropland_or_jhum,16569.0
+2015,Landsat,Tengnoupal,3,built_up,1135.8
+2015,Landsat,Tengnoupal,4,water,132.9
+2015,Landsat,Tengnoupal,6,phumdi_wetland,107.1
+2015,Landsat,Thoubal,0,forest,1692.3
+2015,Landsat,Thoubal,1,rice_paddy,20713.4
+2015,Landsat,Thoubal,2,other_cropland_or_jhum,2376.2
+2015,Landsat,Thoubal,3,built_up,6055.1
+2015,Landsat,Thoubal,4,water,5631.3
+2015,Landsat,Thoubal,6,phumdi_wetland,2905.9
+2015,Landsat,Ukhrul,0,forest,104081.2
+2015,Landsat,Ukhrul,1,rice_paddy,2597.0
+2015,Landsat,Ukhrul,2,other_cropland_or_jhum,100760.6
+2015,Landsat,Ukhrul,3,built_up,1926.4
+2015,Landsat,Ukhrul,4,water,186.4
+2015,Landsat,Ukhrul,6,phumdi_wetland,72.0
+2015,Landsat,Bishnupur,0,forest,2351.9
+2015,Landsat,Bishnupur,1,rice_paddy,19652.4
+2015,Landsat,Bishnupur,2,other_cropland_or_jhum,1017.1
+2015,Landsat,Bishnupur,3,built_up,4538.2
+2015,Landsat,Bishnupur,4,water,14420.3
+2015,Landsat,Bishnupur,6,phumdi_wetland,6109.3
+2015,Landsat,Chandel,0,forest,160735.2
+2015,Landsat,Chandel,1,rice_paddy,4074.1
+2015,Landsat,Chandel,2,other_cropland_or_jhum,31325.6
+2015,Landsat,Chandel,3,built_up,1278.3
+2015,Landsat,Chandel,4,water,463.6
+2015,Landsat,Chandel,6,phumdi_wetland,258.1
