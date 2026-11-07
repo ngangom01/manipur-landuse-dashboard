@@ -121,6 +121,7 @@ with st.sidebar:
     district = st.selectbox("District", districts)
     year = st.select_slider("📅 Year", options=years, value=years[-1])
     sensor = sensor_by_year[year]
+    note = " (5-year composite, year ±2)" if sensor == "Landsat" else ""
     st.caption(f"📡 {year}: {sensor} satellite data, {RESOLUTION.get(sensor, '')} pixels")
 
     st.subheader("🗺️ Map Layer Settings")
