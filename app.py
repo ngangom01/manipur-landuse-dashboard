@@ -159,30 +159,30 @@ st.markdown(f"""
         color: {text_color};
     }}
 
-    /* Sticky Header Styling */
+    /* Sticky Header Styling - stays locked at top when scrolled */
     .sticky-header-container {{
         position: sticky;
-        top: 2.8rem;
-        z-index: 999;
+        top: 0px;
+        z-index: 99999;
         background-color: {bg_color};
-        backdrop-filter: blur(8px);
-        padding: 12px 0 16px 0;
+        backdrop-filter: blur(10px);
+        padding: 16px 0 16px 0;
         border-bottom: 1px solid {border_color};
         margin-bottom: 20px;
     }}
     .sticky-header-title {{
-        font-size: 1.85rem;
+        font-size: 2.3rem;
         font-weight: 700;
         margin: 0;
         color: {text_color};
         display: flex;
         align-items: center;
-        gap: 10px;
+        gap: 12px;
     }}
     .sticky-header-subtitle {{
-        font-size: 0.95rem;
-        margin: 4px 0 0 0;
-        opacity: 0.8;
+        font-size: 1.05rem;
+        margin: 6px 0 0 0;
+        opacity: 0.85;
         color: {text_color};
     }}
 </style>
