@@ -4,7 +4,7 @@ See how Manipur's farmland and forests are changing, district by district.
 
 An interactive dashboard that maps land use in Manipur, India (rice paddy, other cropland and jhum, forest, built-up areas, water and phumdi) from free satellite data, with yearly trends and forest-loss charts.
 
-**Live app:** [paste your streamlit.app link here]
+**Live app:** [(https://ngangom01-manipur-landuse-dashboard-app-k9snqr.streamlit.app/)]
 
 <!-- Add a screenshot: take one of the running app, upload it to this repo
      (Add file > Upload files), then replace the line below with:
