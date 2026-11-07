@@ -1,0 +1,385 @@
+year,sensor,district,class_id,class_name,hectares
+2020,Sentinel2,Churachandpur,0,forest,205278.6
+2020,Sentinel2,Churachandpur,1,rice_paddy,2911.9
+2020,Sentinel2,Churachandpur,2,other_cropland_or_jhum,31171.1
+2020,Sentinel2,Churachandpur,3,built_up,3502.0
+2020,Sentinel2,Churachandpur,4,water,1798.0
+2020,Sentinel2,Churachandpur,6,phumdi_wetland,36.8
+2020,Sentinel2,Imphal East,0,forest,9549.0
+2020,Sentinel2,Imphal East,1,rice_paddy,18360.0
+2020,Sentinel2,Imphal East,2,other_cropland_or_jhum,5447.3
+2020,Sentinel2,Imphal East,3,built_up,8424.4
+2020,Sentinel2,Imphal East,4,water,1249.8
+2020,Sentinel2,Imphal East,6,phumdi_wetland,138.8
+2020,Sentinel2,Imphal West,0,forest,4888.5
+2020,Sentinel2,Imphal West,1,rice_paddy,19839.7
+2020,Sentinel2,Imphal West,2,other_cropland_or_jhum,3815.0
+2020,Sentinel2,Imphal West,3,built_up,10502.1
+2020,Sentinel2,Imphal West,4,water,8182.9
+2020,Sentinel2,Imphal West,6,phumdi_wetland,1573.8
+2020,Sentinel2,Jiribam,0,forest,24828.9
+2020,Sentinel2,Jiribam,1,rice_paddy,653.3
+2020,Sentinel2,Jiribam,2,other_cropland_or_jhum,741.7
+2020,Sentinel2,Jiribam,3,built_up,1521.8
+2020,Sentinel2,Jiribam,4,water,1564.8
+2020,Sentinel2,Jiribam,6,phumdi_wetland,58.8
+2020,Sentinel2,Kakching,0,forest,6423.1
+2020,Sentinel2,Kakching,1,rice_paddy,9413.1
+2020,Sentinel2,Kakching,2,other_cropland_or_jhum,3503.5
+2020,Sentinel2,Kakching,3,built_up,4683.5
+2020,Sentinel2,Kakching,4,water,6976.9
+2020,Sentinel2,Kakching,6,phumdi_wetland,958.0
+2020,Sentinel2,Kamjong,0,forest,224038.6
+2020,Sentinel2,Kamjong,1,rice_paddy,120.7
+2020,Sentinel2,Kamjong,2,other_cropland_or_jhum,12396.7
+2020,Sentinel2,Kamjong,3,built_up,636.2
+2020,Sentinel2,Kamjong,4,water,749.4
+2020,Sentinel2,Kamjong,6,phumdi_wetland,5.9
+2020,Sentinel2,Kangpokpi,0,forest,113877.9
+2020,Sentinel2,Kangpokpi,1,rice_paddy,4139.1
+2020,Sentinel2,Kangpokpi,2,other_cropland_or_jhum,51857.9
+2020,Sentinel2,Kangpokpi,3,built_up,2271.3
+2020,Sentinel2,Kangpokpi,4,water,1186.9
+2020,Sentinel2,Kangpokpi,6,phumdi_wetland,20.9
+2020,Sentinel2,Nonei,0,forest,111245.9
+2020,Sentinel2,Nonei,1,rice_paddy,666.7
+2020,Sentinel2,Nonei,2,other_cropland_or_jhum,3534.4
+2020,Sentinel2,Nonei,3,built_up,961.4
+2020,Sentinel2,Nonei,4,water,1445.8
+2020,Sentinel2,Nonei,6,phumdi_wetland,28.2
+2020,Sentinel2,Senapati,0,forest,119592.2
+2020,Sentinel2,Senapati,1,rice_paddy,192.0
+2020,Sentinel2,Senapati,2,other_cropland_or_jhum,54032.6
+2020,Sentinel2,Senapati,3,built_up,850.6
+2020,Sentinel2,Senapati,4,water,234.0
+2020,Sentinel2,Senapati,6,phumdi_wetland,0.5
+2020,Sentinel2,Pherzawl,0,forest,205737.8
+2020,Sentinel2,Pherzawl,1,rice_paddy,37.7
+2020,Sentinel2,Pherzawl,2,other_cropland_or_jhum,5563.7
+2020,Sentinel2,Pherzawl,3,built_up,803.9
+2020,Sentinel2,Pherzawl,4,water,2353.3
+2020,Sentinel2,Pherzawl,6,phumdi_wetland,36.9
+2020,Sentinel2,Tamenglong,0,forest,283814.2
+2020,Sentinel2,Tamenglong,1,rice_paddy,540.0
+2020,Sentinel2,Tamenglong,2,other_cropland_or_jhum,12794.0
+2020,Sentinel2,Tamenglong,3,built_up,2159.0
+2020,Sentinel2,Tamenglong,4,water,2434.5
+2020,Sentinel2,Tamenglong,6,phumdi_wetland,62.4
+2020,Sentinel2,Tengnoupal,0,forest,107060.9
+2020,Sentinel2,Tengnoupal,1,rice_paddy,813.5
+2020,Sentinel2,Tengnoupal,2,other_cropland_or_jhum,14518.7
+2020,Sentinel2,Tengnoupal,3,built_up,1244.6
+2020,Sentinel2,Tengnoupal,4,water,353.2
+2020,Sentinel2,Tengnoupal,6,phumdi_wetland,4.4
+2020,Sentinel2,Thoubal,0,forest,2845.5
+2020,Sentinel2,Thoubal,1,rice_paddy,15678.4
+2020,Sentinel2,Thoubal,2,other_cropland_or_jhum,4675.1
+2020,Sentinel2,Thoubal,3,built_up,8384.6
+2020,Sentinel2,Thoubal,4,water,6478.8
+2020,Sentinel2,Thoubal,6,phumdi_wetland,1311.8
+2020,Sentinel2,Ukhrul,0,forest,142008.9
+2020,Sentinel2,Ukhrul,1,rice_paddy,543.5
+2020,Sentinel2,Ukhrul,2,other_cropland_or_jhum,65628.7
+2020,Sentinel2,Ukhrul,3,built_up,1066.7
+2020,Sentinel2,Ukhrul,4,water,372.6
+2020,Sentinel2,Ukhrul,6,phumdi_wetland,3.2
+2020,Sentinel2,Bishnupur,0,forest,3911.4
+2020,Sentinel2,Bishnupur,1,rice_paddy,15204.3
+2020,Sentinel2,Bishnupur,2,other_cropland_or_jhum,2132.7
+2020,Sentinel2,Bishnupur,3,built_up,6424.0
+2020,Sentinel2,Bishnupur,4,water,17940.6
+2020,Sentinel2,Bishnupur,6,phumdi_wetland,2476.1
+2020,Sentinel2,Chandel,0,forest,175896.8
+2020,Sentinel2,Chandel,1,rice_paddy,1238.8
+2020,Sentinel2,Chandel,2,other_cropland_or_jhum,18510.0
+2020,Sentinel2,Chandel,3,built_up,1685.3
+2020,Sentinel2,Chandel,4,water,793.9
+2020,Sentinel2,Chandel,6,phumdi_wetland,10.2
+2021,Sentinel2,Churachandpur,0,forest,203132.9
+2021,Sentinel2,Churachandpur,1,rice_paddy,3356.0
+2021,Sentinel2,Churachandpur,2,other_cropland_or_jhum,33486.0
+2021,Sentinel2,Churachandpur,3,built_up,3297.2
+2021,Sentinel2,Churachandpur,4,water,1375.3
+2021,Sentinel2,Churachandpur,6,phumdi_wetland,51.0
+2021,Sentinel2,Imphal East,0,forest,9232.3
+2021,Sentinel2,Imphal East,1,rice_paddy,18750.2
+2021,Sentinel2,Imphal East,2,other_cropland_or_jhum,5972.5
+2021,Sentinel2,Imphal East,3,built_up,8319.3
+2021,Sentinel2,Imphal East,4,water,664.0
+2021,Sentinel2,Imphal East,6,phumdi_wetland,231.0
+2021,Sentinel2,Imphal West,0,forest,4653.7
+2021,Sentinel2,Imphal West,1,rice_paddy,21095.4
+2021,Sentinel2,Imphal West,2,other_cropland_or_jhum,3641.9
+2021,Sentinel2,Imphal West,3,built_up,10189.8
+2021,Sentinel2,Imphal West,4,water,7167.6
+2021,Sentinel2,Imphal West,6,phumdi_wetland,2053.4
+2021,Sentinel2,Jiribam,0,forest,25053.9
+2021,Sentinel2,Jiribam,1,rice_paddy,1071.8
+2021,Sentinel2,Jiribam,2,other_cropland_or_jhum,974.8
+2021,Sentinel2,Jiribam,3,built_up,1307.8
+2021,Sentinel2,Jiribam,4,water,804.9
+2021,Sentinel2,Jiribam,6,phumdi_wetland,156.2
+2021,Sentinel2,Kakching,0,forest,5730.5
+2021,Sentinel2,Kakching,1,rice_paddy,10427.1
+2021,Sentinel2,Kakching,2,other_cropland_or_jhum,3769.2
+2021,Sentinel2,Kakching,3,built_up,4616.3
+2021,Sentinel2,Kakching,4,water,5721.2
+2021,Sentinel2,Kakching,6,phumdi_wetland,1693.8
+2021,Sentinel2,Kamjong,0,forest,224413.1
+2021,Sentinel2,Kamjong,1,rice_paddy,179.9
+2021,Sentinel2,Kamjong,2,other_cropland_or_jhum,11850.3
+2021,Sentinel2,Kamjong,3,built_up,843.3
+2021,Sentinel2,Kamjong,4,water,613.4
+2021,Sentinel2,Kamjong,6,phumdi_wetland,47.5
+2021,Sentinel2,Kangpokpi,0,forest,113921.3
+2021,Sentinel2,Kangpokpi,1,rice_paddy,4437.5
+2021,Sentinel2,Kangpokpi,2,other_cropland_or_jhum,51507.5
+2021,Sentinel2,Kangpokpi,3,built_up,2458.3
+2021,Sentinel2,Kangpokpi,4,water,1008.7
+2021,Sentinel2,Kangpokpi,6,phumdi_wetland,20.8
+2021,Sentinel2,Nonei,0,forest,110549.8
+2021,Sentinel2,Nonei,1,rice_paddy,782.2
+2021,Sentinel2,Nonei,2,other_cropland_or_jhum,4334.8
+2021,Sentinel2,Nonei,3,built_up,960.0
+2021,Sentinel2,Nonei,4,water,1201.4
+2021,Sentinel2,Nonei,6,phumdi_wetland,54.2
+2021,Sentinel2,Senapati,0,forest,126101.0
+2021,Sentinel2,Senapati,1,rice_paddy,253.2
+2021,Sentinel2,Senapati,2,other_cropland_or_jhum,47288.5
+2021,Sentinel2,Senapati,3,built_up,1106.3
+2021,Sentinel2,Senapati,4,water,146.8
+2021,Sentinel2,Senapati,6,phumdi_wetland,6.2
+2021,Sentinel2,Pherzawl,0,forest,207534.0
+2021,Sentinel2,Pherzawl,1,rice_paddy,80.1
+2021,Sentinel2,Pherzawl,2,other_cropland_or_jhum,4253.9
+2021,Sentinel2,Pherzawl,3,built_up,720.3
+2021,Sentinel2,Pherzawl,4,water,1845.5
+2021,Sentinel2,Pherzawl,6,phumdi_wetland,99.4
+2021,Sentinel2,Tamenglong,0,forest,285141.0
+2021,Sentinel2,Tamenglong,1,rice_paddy,796.1
+2021,Sentinel2,Tamenglong,2,other_cropland_or_jhum,11550.7
+2021,Sentinel2,Tamenglong,3,built_up,2383.4
+2021,Sentinel2,Tamenglong,4,water,1743.0
+2021,Sentinel2,Tamenglong,6,phumdi_wetland,190.1
+2021,Sentinel2,Tengnoupal,0,forest,106525.5
+2021,Sentinel2,Tengnoupal,1,rice_paddy,921.0
+2021,Sentinel2,Tengnoupal,2,other_cropland_or_jhum,14991.1
+2021,Sentinel2,Tengnoupal,3,built_up,1294.5
+2021,Sentinel2,Tengnoupal,4,water,238.2
+2021,Sentinel2,Tengnoupal,6,phumdi_wetland,25.0
+2021,Sentinel2,Thoubal,0,forest,2468.8
+2021,Sentinel2,Thoubal,1,rice_paddy,16669.9
+2021,Sentinel2,Thoubal,2,other_cropland_or_jhum,4131.7
+2021,Sentinel2,Thoubal,3,built_up,8555.9
+2021,Sentinel2,Thoubal,4,water,5209.0
+2021,Sentinel2,Thoubal,6,phumdi_wetland,2338.9
+2021,Sentinel2,Ukhrul,0,forest,151500.6
+2021,Sentinel2,Ukhrul,1,rice_paddy,687.5
+2021,Sentinel2,Ukhrul,2,other_cropland_or_jhum,55880.9
+2021,Sentinel2,Ukhrul,3,built_up,1297.9
+2021,Sentinel2,Ukhrul,4,water,242.0
+2021,Sentinel2,Ukhrul,6,phumdi_wetland,14.8
+2021,Sentinel2,Bishnupur,0,forest,3602.5
+2021,Sentinel2,Bishnupur,1,rice_paddy,15937.1
+2021,Sentinel2,Bishnupur,2,other_cropland_or_jhum,2124.4
+2021,Sentinel2,Bishnupur,3,built_up,6032.3
+2021,Sentinel2,Bishnupur,4,water,16454.6
+2021,Sentinel2,Bishnupur,6,phumdi_wetland,3938.2
+2021,Sentinel2,Chandel,0,forest,175810.7
+2021,Sentinel2,Chandel,1,rice_paddy,1621.7
+2021,Sentinel2,Chandel,2,other_cropland_or_jhum,18553.3
+2021,Sentinel2,Chandel,3,built_up,1632.2
+2021,Sentinel2,Chandel,4,water,470.3
+2021,Sentinel2,Chandel,6,phumdi_wetland,46.9
+2022,Sentinel2,Churachandpur,0,forest,203386.8
+2022,Sentinel2,Churachandpur,1,rice_paddy,3414.1
+2022,Sentinel2,Churachandpur,2,other_cropland_or_jhum,32423.1
+2022,Sentinel2,Churachandpur,3,built_up,3650.4
+2022,Sentinel2,Churachandpur,4,water,1299.4
+2022,Sentinel2,Churachandpur,6,phumdi_wetland,524.6
+2022,Sentinel2,Imphal East,0,forest,9688.2
+2022,Sentinel2,Imphal East,1,rice_paddy,18853.3
+2022,Sentinel2,Imphal East,2,other_cropland_or_jhum,5258.7
+2022,Sentinel2,Imphal East,3,built_up,8085.6
+2022,Sentinel2,Imphal East,4,water,855.4
+2022,Sentinel2,Imphal East,6,phumdi_wetland,428.2
+2022,Sentinel2,Imphal West,0,forest,5234.7
+2022,Sentinel2,Imphal West,1,rice_paddy,19311.8
+2022,Sentinel2,Imphal West,2,other_cropland_or_jhum,3928.5
+2022,Sentinel2,Imphal West,3,built_up,9784.5
+2022,Sentinel2,Imphal West,4,water,6482.1
+2022,Sentinel2,Imphal West,6,phumdi_wetland,4060.3
+2022,Sentinel2,Jiribam,0,forest,25061.5
+2022,Sentinel2,Jiribam,1,rice_paddy,715.7
+2022,Sentinel2,Jiribam,2,other_cropland_or_jhum,904.0
+2022,Sentinel2,Jiribam,3,built_up,1300.0
+2022,Sentinel2,Jiribam,4,water,801.4
+2022,Sentinel2,Jiribam,6,phumdi_wetland,586.8
+2022,Sentinel2,Kakching,0,forest,5956.9
+2022,Sentinel2,Kakching,1,rice_paddy,10571.1
+2022,Sentinel2,Kakching,2,other_cropland_or_jhum,3651.9
+2022,Sentinel2,Kakching,3,built_up,3942.7
+2022,Sentinel2,Kakching,4,water,4441.8
+2022,Sentinel2,Kakching,6,phumdi_wetland,3393.8
+2022,Sentinel2,Kamjong,0,forest,221842.4
+2022,Sentinel2,Kamjong,1,rice_paddy,190.1
+2022,Sentinel2,Kamjong,2,other_cropland_or_jhum,14153.5
+2022,Sentinel2,Kamjong,3,built_up,980.9
+2022,Sentinel2,Kamjong,4,water,567.5
+2022,Sentinel2,Kamjong,6,phumdi_wetland,213.1
+2022,Sentinel2,Kangpokpi,0,forest,114890.5
+2022,Sentinel2,Kangpokpi,1,rice_paddy,4092.6
+2022,Sentinel2,Kangpokpi,2,other_cropland_or_jhum,50739.4
+2022,Sentinel2,Kangpokpi,3,built_up,2496.1
+2022,Sentinel2,Kangpokpi,4,water,1036.2
+2022,Sentinel2,Kangpokpi,6,phumdi_wetland,99.2
+2022,Sentinel2,Nonei,0,forest,111221.0
+2022,Sentinel2,Nonei,1,rice_paddy,605.7
+2022,Sentinel2,Nonei,2,other_cropland_or_jhum,3422.4
+2022,Sentinel2,Nonei,3,built_up,1026.4
+2022,Sentinel2,Nonei,4,water,1070.1
+2022,Sentinel2,Nonei,6,phumdi_wetland,536.7
+2022,Sentinel2,Senapati,0,forest,116785.2
+2022,Sentinel2,Senapati,1,rice_paddy,289.0
+2022,Sentinel2,Senapati,2,other_cropland_or_jhum,56417.6
+2022,Sentinel2,Senapati,3,built_up,1231.9
+2022,Sentinel2,Senapati,4,water,136.7
+2022,Sentinel2,Senapati,6,phumdi_wetland,41.4
+2022,Sentinel2,Pherzawl,0,forest,206019.8
+2022,Sentinel2,Pherzawl,1,rice_paddy,67.9
+2022,Sentinel2,Pherzawl,2,other_cropland_or_jhum,4749.6
+2022,Sentinel2,Pherzawl,3,built_up,1103.3
+2022,Sentinel2,Pherzawl,4,water,1779.4
+2022,Sentinel2,Pherzawl,6,phumdi_wetland,813.3
+2022,Sentinel2,Tamenglong,0,forest,282593.5
+2022,Sentinel2,Tamenglong,1,rice_paddy,589.2
+2022,Sentinel2,Tamenglong,2,other_cropland_or_jhum,12603.8
+2022,Sentinel2,Tamenglong,3,built_up,3113.8
+2022,Sentinel2,Tamenglong,4,water,1963.5
+2022,Sentinel2,Tamenglong,6,phumdi_wetland,940.4
+2022,Sentinel2,Tengnoupal,0,forest,105520.0
+2022,Sentinel2,Tengnoupal,1,rice_paddy,922.0
+2022,Sentinel2,Tengnoupal,2,other_cropland_or_jhum,15770.2
+2022,Sentinel2,Tengnoupal,3,built_up,1390.5
+2022,Sentinel2,Tengnoupal,4,water,233.6
+2022,Sentinel2,Tengnoupal,6,phumdi_wetland,159.0
+2022,Sentinel2,Thoubal,0,forest,2858.8
+2022,Sentinel2,Thoubal,1,rice_paddy,16395.2
+2022,Sentinel2,Thoubal,2,other_cropland_or_jhum,4218.4
+2022,Sentinel2,Thoubal,3,built_up,7366.1
+2022,Sentinel2,Thoubal,4,water,4600.8
+2022,Sentinel2,Thoubal,6,phumdi_wetland,3935.0
+2022,Sentinel2,Ukhrul,0,forest,138694.0
+2022,Sentinel2,Ukhrul,1,rice_paddy,652.6
+2022,Sentinel2,Ukhrul,2,other_cropland_or_jhum,68739.2
+2022,Sentinel2,Ukhrul,3,built_up,1257.6
+2022,Sentinel2,Ukhrul,4,water,204.9
+2022,Sentinel2,Ukhrul,6,phumdi_wetland,75.3
+2022,Sentinel2,Bishnupur,0,forest,3694.4
+2022,Sentinel2,Bishnupur,1,rice_paddy,15280.5
+2022,Sentinel2,Bishnupur,2,other_cropland_or_jhum,2423.3
+2022,Sentinel2,Bishnupur,3,built_up,5555.1
+2022,Sentinel2,Bishnupur,4,water,14439.7
+2022,Sentinel2,Bishnupur,6,phumdi_wetland,6696.1
+2022,Sentinel2,Chandel,0,forest,173701.3
+2022,Sentinel2,Chandel,1,rice_paddy,1550.4
+2022,Sentinel2,Chandel,2,other_cropland_or_jhum,20589.2
+2022,Sentinel2,Chandel,3,built_up,1576.8
+2022,Sentinel2,Chandel,4,water,501.4
+2022,Sentinel2,Chandel,6,phumdi_wetland,215.9
+2023,Sentinel2,Churachandpur,0,forest,201738.8
+2023,Sentinel2,Churachandpur,1,rice_paddy,3942.9
+2023,Sentinel2,Churachandpur,2,other_cropland_or_jhum,33893.2
+2023,Sentinel2,Churachandpur,3,built_up,3222.8
+2023,Sentinel2,Churachandpur,4,water,1496.2
+2023,Sentinel2,Churachandpur,6,phumdi_wetland,404.5
+2023,Sentinel2,Imphal East,0,forest,9144.0
+2023,Sentinel2,Imphal East,1,rice_paddy,20105.7
+2023,Sentinel2,Imphal East,2,other_cropland_or_jhum,4849.4
+2023,Sentinel2,Imphal East,3,built_up,7945.2
+2023,Sentinel2,Imphal East,4,water,872.5
+2023,Sentinel2,Imphal East,6,phumdi_wetland,252.4
+2023,Sentinel2,Imphal West,0,forest,4705.4
+2023,Sentinel2,Imphal West,1,rice_paddy,20812.8
+2023,Sentinel2,Imphal West,2,other_cropland_or_jhum,3366.4
+2023,Sentinel2,Imphal West,3,built_up,9447.0
+2023,Sentinel2,Imphal West,4,water,7510.5
+2023,Sentinel2,Imphal West,6,phumdi_wetland,2959.9
+2023,Sentinel2,Jiribam,0,forest,24484.1
+2023,Sentinel2,Jiribam,1,rice_paddy,638.7
+2023,Sentinel2,Jiribam,2,other_cropland_or_jhum,330.2
+2023,Sentinel2,Jiribam,3,built_up,1249.6
+2023,Sentinel2,Jiribam,4,water,1751.6
+2023,Sentinel2,Jiribam,6,phumdi_wetland,915.1
+2023,Sentinel2,Kakching,0,forest,6261.3
+2023,Sentinel2,Kakching,1,rice_paddy,10548.9
+2023,Sentinel2,Kakching,2,other_cropland_or_jhum,2746.1
+2023,Sentinel2,Kakching,3,built_up,3955.5
+2023,Sentinel2,Kakching,4,water,5847.5
+2023,Sentinel2,Kakching,6,phumdi_wetland,2598.9
+2023,Sentinel2,Kamjong,0,forest,222036.9
+2023,Sentinel2,Kamjong,1,rice_paddy,246.2
+2023,Sentinel2,Kamjong,2,other_cropland_or_jhum,14062.5
+2023,Sentinel2,Kamjong,3,built_up,798.1
+2023,Sentinel2,Kamjong,4,water,724.6
+2023,Sentinel2,Kamjong,6,phumdi_wetland,79.2
+2023,Sentinel2,Kangpokpi,0,forest,109192.6
+2023,Sentinel2,Kangpokpi,1,rice_paddy,5206.9
+2023,Sentinel2,Kangpokpi,2,other_cropland_or_jhum,55667.1
+2023,Sentinel2,Kangpokpi,3,built_up,2082.7
+2023,Sentinel2,Kangpokpi,4,water,1112.4
+2023,Sentinel2,Kangpokpi,6,phumdi_wetland,92.3
+2023,Sentinel2,Nonei,0,forest,109174.3
+2023,Sentinel2,Nonei,1,rice_paddy,721.3
+2023,Sentinel2,Nonei,2,other_cropland_or_jhum,4877.0
+2023,Sentinel2,Nonei,3,built_up,1214.3
+2023,Sentinel2,Nonei,4,water,1577.6
+2023,Sentinel2,Nonei,6,phumdi_wetland,317.9
+2023,Sentinel2,Senapati,0,forest,112268.7
+2023,Sentinel2,Senapati,1,rice_paddy,305.3
+2023,Sentinel2,Senapati,2,other_cropland_or_jhum,60982.2
+2023,Sentinel2,Senapati,3,built_up,1142.1
+2023,Sentinel2,Senapati,4,water,166.7
+2023,Sentinel2,Senapati,6,phumdi_wetland,37.0
+2023,Sentinel2,Pherzawl,0,forest,207750.9
+2023,Sentinel2,Pherzawl,1,rice_paddy,63.2
+2023,Sentinel2,Pherzawl,2,other_cropland_or_jhum,3815.2
+2023,Sentinel2,Pherzawl,3,built_up,673.0
+2023,Sentinel2,Pherzawl,4,water,1984.4
+2023,Sentinel2,Pherzawl,6,phumdi_wetland,246.6
+2023,Sentinel2,Tamenglong,0,forest,281965.4
+2023,Sentinel2,Tamenglong,1,rice_paddy,524.6
+2023,Sentinel2,Tamenglong,2,other_cropland_or_jhum,12309.8
+2023,Sentinel2,Tamenglong,3,built_up,3049.3
+2023,Sentinel2,Tamenglong,4,water,3256.7
+2023,Sentinel2,Tamenglong,6,phumdi_wetland,698.4
+2023,Sentinel2,Tengnoupal,0,forest,105389.7
+2023,Sentinel2,Tengnoupal,1,rice_paddy,1092.6
+2023,Sentinel2,Tengnoupal,2,other_cropland_or_jhum,15515.8
+2023,Sentinel2,Tengnoupal,3,built_up,1475.0
+2023,Sentinel2,Tengnoupal,4,water,437.1
+2023,Sentinel2,Tengnoupal,6,phumdi_wetland,85.1
+2023,Sentinel2,Thoubal,0,forest,2792.7
+2023,Sentinel2,Thoubal,1,rice_paddy,16573.1
+2023,Sentinel2,Thoubal,2,other_cropland_or_jhum,3744.4
+2023,Sentinel2,Thoubal,3,built_up,7661.2
+2023,Sentinel2,Thoubal,4,water,6301.7
+2023,Sentinel2,Thoubal,6,phumdi_wetland,2301.2
+2023,Sentinel2,Ukhrul,0,forest,134609.5
+2023,Sentinel2,Ukhrul,1,rice_paddy,853.4
+2023,Sentinel2,Ukhrul,2,other_cropland_or_jhum,72757.7
+2023,Sentinel2,Ukhrul,3,built_up,1060.1
+2023,Sentinel2,Ukhrul,4,water,298.6
+2023,Sentinel2,Ukhrul,6,phumdi_wetland,44.3
+2023,Sentinel2,Bishnupur,0,forest,3675.3
+2023,Sentinel2,Bishnupur,1,rice_paddy,15944.6
+2023,Sentinel2,Bishnupur,2,other_cropland_or_jhum,1627.0
+2023,Sentinel2,Bishnupur,3,built_up,5059.2
+2023,Sentinel2,Bishnupur,4,water,15908.4
+2023,Sentinel2,Bishnupur,6,phumdi_wetland,5874.6
+2023,Sentinel2,Chandel,0,forest,176236.1
+2023,Sentinel2,Chandel,1,rice_paddy,1981.3
+2023,Sentinel2,Chandel,2,other_cropland_or_jhum,17581.5
+2023,Sentinel2,Chandel,3,built_up,1502.1
+2023,Sentinel2,Chandel,4,water,667.3
+2023,Sentinel2,Chandel,6,phumdi_wetland,166.6

@@ -1,0 +1,385 @@
+district,year,loss_ha
+Churachandpur,2001,677.4
+Churachandpur,2002,701.9
+Churachandpur,2003,622.2
+Churachandpur,2004,755.5
+Churachandpur,2005,660.1
+Churachandpur,2006,969.8
+Churachandpur,2007,674.5
+Churachandpur,2008,763.0
+Churachandpur,2009,891.2
+Churachandpur,2010,615.2
+Churachandpur,2011,1023.5
+Churachandpur,2012,1228.8
+Churachandpur,2013,1850.0
+Churachandpur,2014,2163.6
+Churachandpur,2015,2117.8
+Churachandpur,2016,2760.6
+Churachandpur,2017,3027.8
+Churachandpur,2018,2414.5
+Churachandpur,2019,2349.7
+Churachandpur,2020,2359.3
+Churachandpur,2021,3062.0
+Churachandpur,2022,2215.5
+Churachandpur,2023,2308.6
+Churachandpur,2024,2521.2
+Imphal East,2001,11.0
+Imphal East,2002,4.3
+Imphal East,2003,13.9
+Imphal East,2004,16.3
+Imphal East,2005,13.3
+Imphal East,2006,20.7
+Imphal East,2007,7.8
+Imphal East,2008,13.9
+Imphal East,2009,14.3
+Imphal East,2010,19.1
+Imphal East,2011,12.3
+Imphal East,2012,32.3
+Imphal East,2013,46.4
+Imphal East,2014,70.9
+Imphal East,2015,84.7
+Imphal East,2016,106.0
+Imphal East,2017,116.2
+Imphal East,2018,56.9
+Imphal East,2019,75.7
+Imphal East,2020,49.7
+Imphal East,2021,32.0
+Imphal East,2022,20.8
+Imphal East,2023,35.4
+Imphal East,2024,19.1
+Imphal West,2001,4.1
+Imphal West,2002,6.7
+Imphal West,2003,1.1
+Imphal West,2004,6.0
+Imphal West,2005,8.5
+Imphal West,2006,9.7
+Imphal West,2007,16.2
+Imphal West,2008,7.0
+Imphal West,2009,14.4
+Imphal West,2010,6.7
+Imphal West,2011,26.9
+Imphal West,2012,47.1
+Imphal West,2013,37.9
+Imphal West,2014,48.9
+Imphal West,2015,46.3
+Imphal West,2016,77.5
+Imphal West,2017,49.6
+Imphal West,2018,42.9
+Imphal West,2019,42.0
+Imphal West,2020,29.8
+Imphal West,2021,27.1
+Imphal West,2022,19.0
+Imphal West,2023,34.1
+Imphal West,2024,26.6
+Jiribam,2001,25.7
+Jiribam,2002,13.6
+Jiribam,2003,12.4
+Jiribam,2004,14.7
+Jiribam,2005,25.3
+Jiribam,2006,26.9
+Jiribam,2007,45.5
+Jiribam,2008,69.2
+Jiribam,2009,65.6
+Jiribam,2010,39.3
+Jiribam,2011,49.7
+Jiribam,2012,79.8
+Jiribam,2013,57.3
+Jiribam,2014,121.9
+Jiribam,2015,70.3
+Jiribam,2016,173.3
+Jiribam,2017,138.0
+Jiribam,2018,77.8
+Jiribam,2019,71.7
+Jiribam,2020,140.2
+Jiribam,2021,112.0
+Jiribam,2022,128.8
+Jiribam,2023,203.4
+Jiribam,2024,93.7
+Kakching,2001,23.4
+Kakching,2002,12.2
+Kakching,2003,56.2
+Kakching,2004,41.3
+Kakching,2005,2.2
+Kakching,2006,50.8
+Kakching,2007,18.2
+Kakching,2008,22.4
+Kakching,2009,19.2
+Kakching,2010,6.9
+Kakching,2011,26.0
+Kakching,2012,38.7
+Kakching,2013,24.0
+Kakching,2014,77.8
+Kakching,2015,56.6
+Kakching,2016,67.9
+Kakching,2017,32.2
+Kakching,2018,37.6
+Kakching,2019,44.0
+Kakching,2020,43.9
+Kakching,2021,53.8
+Kakching,2022,34.5
+Kakching,2023,56.2
+Kakching,2024,58.2
+Kamjong,2001,816.1
+Kamjong,2002,910.6
+Kamjong,2003,1225.5
+Kamjong,2004,1342.3
+Kamjong,2005,1033.2
+Kamjong,2006,1373.1
+Kamjong,2007,871.0
+Kamjong,2008,959.4
+Kamjong,2009,1357.6
+Kamjong,2010,731.2
+Kamjong,2011,1032.1
+Kamjong,2012,1567.9
+Kamjong,2013,2235.8
+Kamjong,2014,2858.5
+Kamjong,2015,2311.8
+Kamjong,2016,3093.8
+Kamjong,2017,2660.2
+Kamjong,2018,1957.9
+Kamjong,2019,2195.7
+Kamjong,2020,2381.2
+Kamjong,2021,2654.8
+Kamjong,2022,1478.3
+Kamjong,2023,1782.9
+Kamjong,2024,2019.4
+Kangpokpi,2001,118.0
+Kangpokpi,2002,145.1
+Kangpokpi,2003,173.2
+Kangpokpi,2004,254.8
+Kangpokpi,2005,267.5
+Kangpokpi,2006,241.7
+Kangpokpi,2007,245.9
+Kangpokpi,2008,502.3
+Kangpokpi,2009,414.5
+Kangpokpi,2010,383.4
+Kangpokpi,2011,547.1
+Kangpokpi,2012,450.9
+Kangpokpi,2013,626.9
+Kangpokpi,2014,956.3
+Kangpokpi,2015,811.3
+Kangpokpi,2016,1174.3
+Kangpokpi,2017,1102.4
+Kangpokpi,2018,881.7
+Kangpokpi,2019,1421.6
+Kangpokpi,2020,1362.0
+Kangpokpi,2021,998.8
+Kangpokpi,2022,653.0
+Kangpokpi,2023,794.9
+Kangpokpi,2024,736.1
+Nonei,2001,133.8
+Nonei,2002,169.6
+Nonei,2003,113.9
+Nonei,2004,137.7
+Nonei,2005,119.5
+Nonei,2006,147.5
+Nonei,2007,117.5
+Nonei,2008,249.3
+Nonei,2009,171.9
+Nonei,2010,151.4
+Nonei,2011,263.2
+Nonei,2012,417.1
+Nonei,2013,478.6
+Nonei,2014,541.2
+Nonei,2015,582.4
+Nonei,2016,1073.4
+Nonei,2017,1073.1
+Nonei,2018,838.0
+Nonei,2019,739.0
+Nonei,2020,972.7
+Nonei,2021,931.0
+Nonei,2022,713.9
+Nonei,2023,882.8
+Nonei,2024,918.4
+Senapati,2001,193.4
+Senapati,2002,82.7
+Senapati,2003,153.7
+Senapati,2004,235.5
+Senapati,2005,225.7
+Senapati,2006,136.0
+Senapati,2007,220.1
+Senapati,2008,303.5
+Senapati,2009,251.0
+Senapati,2010,217.2
+Senapati,2011,215.0
+Senapati,2012,200.3
+Senapati,2013,211.3
+Senapati,2014,387.9
+Senapati,2015,454.2
+Senapati,2016,413.7
+Senapati,2017,319.0
+Senapati,2018,328.7
+Senapati,2019,207.9
+Senapati,2020,349.8
+Senapati,2021,428.3
+Senapati,2022,333.9
+Senapati,2023,372.1
+Senapati,2024,322.6
+Pherzawl,2001,563.3
+Pherzawl,2002,449.7
+Pherzawl,2003,372.1
+Pherzawl,2004,734.1
+Pherzawl,2005,459.1
+Pherzawl,2006,355.5
+Pherzawl,2007,284.6
+Pherzawl,2008,427.5
+Pherzawl,2009,428.5
+Pherzawl,2010,533.0
+Pherzawl,2011,628.8
+Pherzawl,2012,1292.2
+Pherzawl,2013,2213.2
+Pherzawl,2014,2682.6
+Pherzawl,2015,2210.3
+Pherzawl,2016,3924.1
+Pherzawl,2017,4082.3
+Pherzawl,2018,2955.0
+Pherzawl,2019,2335.4
+Pherzawl,2020,2517.3
+Pherzawl,2021,2902.0
+Pherzawl,2022,2183.9
+Pherzawl,2023,1991.7
+Pherzawl,2024,2112.6
+Tamenglong,2001,942.0
+Tamenglong,2002,823.0
+Tamenglong,2003,876.2
+Tamenglong,2004,752.0
+Tamenglong,2005,979.4
+Tamenglong,2006,798.6
+Tamenglong,2007,795.3
+Tamenglong,2008,1090.4
+Tamenglong,2009,803.2
+Tamenglong,2010,744.5
+Tamenglong,2011,1029.7
+Tamenglong,2012,1662.6
+Tamenglong,2013,2103.2
+Tamenglong,2014,2834.0
+Tamenglong,2015,2702.3
+Tamenglong,2016,3946.8
+Tamenglong,2017,3936.5
+Tamenglong,2018,3091.2
+Tamenglong,2019,2414.7
+Tamenglong,2020,3252.3
+Tamenglong,2021,2966.1
+Tamenglong,2022,2882.8
+Tamenglong,2023,3106.4
+Tamenglong,2024,3222.7
+Tengnoupal,2001,313.2
+Tengnoupal,2002,283.2
+Tengnoupal,2003,479.0
+Tengnoupal,2004,236.9
+Tengnoupal,2005,352.6
+Tengnoupal,2006,500.3
+Tengnoupal,2007,398.9
+Tengnoupal,2008,370.0
+Tengnoupal,2009,659.1
+Tengnoupal,2010,305.9
+Tengnoupal,2011,426.3
+Tengnoupal,2012,553.3
+Tengnoupal,2013,1032.6
+Tengnoupal,2014,1234.0
+Tengnoupal,2015,1200.3
+Tengnoupal,2016,1735.5
+Tengnoupal,2017,1209.2
+Tengnoupal,2018,783.9
+Tengnoupal,2019,846.0
+Tengnoupal,2020,822.8
+Tengnoupal,2021,985.4
+Tengnoupal,2022,633.6
+Tengnoupal,2023,690.6
+Tengnoupal,2024,1146.8
+Thoubal,2001,2.1
+Thoubal,2002,4.8
+Thoubal,2003,6.4
+Thoubal,2004,4.6
+Thoubal,2005,2.0
+Thoubal,2006,4.4
+Thoubal,2007,1.1
+Thoubal,2008,4.6
+Thoubal,2009,22.4
+Thoubal,2010,11.0
+Thoubal,2011,23.5
+Thoubal,2012,19.1
+Thoubal,2013,18.1
+Thoubal,2014,23.1
+Thoubal,2015,16.5
+Thoubal,2016,20.7
+Thoubal,2017,13.4
+Thoubal,2018,6.7
+Thoubal,2019,18.9
+Thoubal,2020,10.2
+Thoubal,2021,6.3
+Thoubal,2022,8.5
+Thoubal,2023,9.0
+Thoubal,2024,12.3
+Ukhrul,2001,141.1
+Ukhrul,2002,79.4
+Ukhrul,2003,92.5
+Ukhrul,2004,183.9
+Ukhrul,2005,195.7
+Ukhrul,2006,108.2
+Ukhrul,2007,172.3
+Ukhrul,2008,260.4
+Ukhrul,2009,247.2
+Ukhrul,2010,152.1
+Ukhrul,2011,230.6
+Ukhrul,2012,244.2
+Ukhrul,2013,226.2
+Ukhrul,2014,598.6
+Ukhrul,2015,423.9
+Ukhrul,2016,442.9
+Ukhrul,2017,487.3
+Ukhrul,2018,351.0
+Ukhrul,2019,373.0
+Ukhrul,2020,590.4
+Ukhrul,2021,452.0
+Ukhrul,2022,388.2
+Ukhrul,2023,685.9
+Ukhrul,2024,608.6
+Bishnupur,2001,2.7
+Bishnupur,2002,11.3
+Bishnupur,2003,28.6
+Bishnupur,2004,23.1
+Bishnupur,2005,9.6
+Bishnupur,2006,20.3
+Bishnupur,2007,8.1
+Bishnupur,2008,6.4
+Bishnupur,2009,9.4
+Bishnupur,2010,5.2
+Bishnupur,2011,16.8
+Bishnupur,2012,13.6
+Bishnupur,2013,7.0
+Bishnupur,2014,17.8
+Bishnupur,2015,22.8
+Bishnupur,2016,16.6
+Bishnupur,2017,27.2
+Bishnupur,2018,18.6
+Bishnupur,2019,12.2
+Bishnupur,2020,9.5
+Bishnupur,2021,6.9
+Bishnupur,2022,9.3
+Bishnupur,2023,10.5
+Bishnupur,2024,15.3
+Chandel,2001,425.7
+Chandel,2002,545.5
+Chandel,2003,629.4
+Chandel,2004,534.3
+Chandel,2005,509.0
+Chandel,2006,597.1
+Chandel,2007,416.4
+Chandel,2008,831.7
+Chandel,2009,816.7
+Chandel,2010,416.2
+Chandel,2011,732.0
+Chandel,2012,965.8
+Chandel,2013,1349.6
+Chandel,2014,2059.6
+Chandel,2015,2632.8
+Chandel,2016,2832.0
+Chandel,2017,1571.3
+Chandel,2018,1149.1
+Chandel,2019,1222.4
+Chandel,2020,1217.5
+Chandel,2021,1563.0
+Chandel,2022,1063.1
+Chandel,2023,1226.1
+Chandel,2024,1686.9
