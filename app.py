@@ -44,8 +44,8 @@ ALL_NAME = "All Manipur"
 DEFAULT_BOUNDS = [[23.8, 93.0], [25.7, 94.8]]   # [[south, west], [north, east]]
 RESOLUTION = {"Landsat": "30 m", "Sentinel2": "10 m"}
 
-st.set_page_config(page_title="Manipur Land-Use Dashboard", layout="wide")
-
+st.set_page_config(page_title="Manipur Land Use & Forest Dashboard",
+                   page_icon="🛰️", layout="wide")
 
 # ---------------------------------------------------------------- data ----
 @st.cache_data
@@ -130,6 +130,11 @@ with st.sidebar:
 
 # ---------------------------------------------------------------- title ---
 st.title("Manipur land-use and forest dashboard")
+st.caption("See how Manipur's farmland and forests are changing, district by district.")
+with st.expander("New here? How to use this dashboard"):
+    st.markdown("""
+Paste the "New here?" text from above here.
+""")
 if demo:
     st.warning("DEMO DATA: the numbers and district shapes below are made up "
                "for testing. Put your real files in the data/ folder.")
